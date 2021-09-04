@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+    font-family: Open Sans,sans-serif;
+}
+
+p {
+    font-size: large;
+}
+
+ul li {
+    padding: 3px 2px;
+}
+
+ol li {
+    padding: 3px 2px;
+}
