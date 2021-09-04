@@ -1,4 +1,4 @@
-# Data collection, preprocessing, Hatebase, and Perspective tweets
+# Data collection, preprocessing, Hatebase, and Perspective scripts
 This directory contains the python scripts used for all "pre-analysis" activities. The scripts were executed in the following order:
 
 1. **get_tweet_data.py**: scrapes data from the Twitter API and writes to JSON files
