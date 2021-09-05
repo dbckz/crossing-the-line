@@ -2,7 +2,7 @@
 
 This repository contains the Python scripts and Jupyter notebooks used for data collection and analysis for my master's thesis on the abuse of footballers on Twitter during Euro 2020, submitted to King's College London in September 2021.
 
-## Data
+## Data
 The data collected for this project is available on [Google Drive](https://drive.google.com/drive/folders/1rJL2Pww7eVXdNTC1D25oGCCcmL8t9O2v?usp=sharing).
 
 ## Figures
