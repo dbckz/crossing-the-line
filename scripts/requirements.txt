@@ -12,7 +12,7 @@ google-auth==1.32.1
 google-auth-httplib2==0.1.0
 googleapis-common-protos==1.53.0
 httplib2==0.19.1
-idna==2.10
+idna==3.15
 keyring==17.1.1
 keyrings.alt==3.1.1
 numpy==1.20.3
