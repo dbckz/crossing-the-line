@@ -3,7 +3,7 @@ cachetools==4.2.2
 certifi==2021.5.30
 chardet==4.0.0
 crcmod==1.7
-cryptography==2.6.1
+cryptography==50.0.0
 distro-info==0.21
 entrypoints==0.3
 google-api-core==1.31.0
