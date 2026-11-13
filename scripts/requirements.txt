@@ -32,7 +32,7 @@ requests==2.25.1
 rsa==4.7.2
 SecretStorage==2.3.1
 six==1.16.0
-tqdm==4.62.2
+tqdm==4.66.3
 unattended-upgrades==0.1
 uritemplate==3.0.1
 urllib3==2.8.0
