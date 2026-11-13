@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 cachetools==4.2.2
-certifi==2021.5.30
+certifi==2026.10.19
 chardet==4.0.0
 crcmod==1.7
 cryptography==2.6.1
